@@ -3,9 +3,9 @@ Collection of football projects and analysis
 This report contains the following Deliverables:
 
 **Source code for the analysis**
-- JB Passmap
+- JB Passing map
 - England France Network Passmap
-- JB Heatmap
+- JB Heatmap (updated)
 
 **A 5 slide maximum presentation to deliver to the coaching staff insight of a player’s passing ability**
 
